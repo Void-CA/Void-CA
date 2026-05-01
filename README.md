@@ -18,9 +18,11 @@ I build systems with strong domain modeling, emphasizing scalability, observabil
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Void-CA&show_icons=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=Void-CA&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Void-CA&layout=compact&langs_count=6)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Void-CA&theme=dark&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Void-CA&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Void-CA&theme=tokyonight)
 
